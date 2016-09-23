@@ -97,8 +97,6 @@ p.byline {
     background-image: url('../images/wallpaper-342606.jpg');
     background-size: 1920px;
     color: white;
-    margin-bottom: 0px;
-    padding-top:360px;
 }
 
 .jumbotron#PJintro {
@@ -133,7 +131,7 @@ p.byline {
 	font-size: 30px;
 	text-align: center;
 	padding-bottom: 0px;
-	margin-top: 0px;
+	margin-top: 50px;
 }
 
 .homepage h2 {
