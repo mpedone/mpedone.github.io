@@ -1,7 +1,7 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 body {
   padding-top: 50px;
-  padding-bottom: 20px;
+  /*padding-bottom: 20px;*/
   font-family: 'Oswald Light', sans-serif;
   font-size: 16px;
   text-align: justify;
@@ -53,7 +53,7 @@ a:hover {
 footer {
     background-color: #ff3300;
     padding-top: 150px;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
 }
 
 p.tag {
