@@ -189,3 +189,9 @@ p.byline {
 .item.active {
 	height: 400px;
 }
+
+@media (max-width: 600px) {
+    .jumbotron {
+    	background-size: 100%;
+    }
+}
