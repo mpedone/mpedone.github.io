@@ -80,6 +80,7 @@ p.byline {
 #posts {
 	background: #080808;
 	padding-top: 50px;
+	margin-bottom: 0;
 }
 
 #who {
