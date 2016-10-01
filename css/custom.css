@@ -86,6 +86,15 @@ p.byline {
 	padding-top: 50px;
 }
 
+#sections {
+	padding-top: 50px;
+	background-color: #dddddd;
+	background-image: url('../images/cardcat.jpg');
+	/*background-image: url('../images/originals/boston-592192.jpg');
+	background-size: contain;*/
+	background-attachment: fixed;
+}
+
 .footer p {
     font-family: 'Oswald Light', sans-serif;
     font-size: 9px;
@@ -103,6 +112,7 @@ p.byline {
     background-size: 1920px;
     color: white;
     margin-bottom: 0px;
+    background-attachment: fixed;
     /*padding-top:360px;*/
 }
 
@@ -110,6 +120,7 @@ p.byline {
 	background-image: url('../images/PJatFenwayGreenMonster2a.png');
 	background-position-y: -100px;
 	padding-top:400px;
+	background-attachment: fixed;
 }
 
 .mainBanner h1 {
@@ -124,7 +135,44 @@ p.byline {
 }
 
 .sec {
-	padding-bottom: 50px;
+	border: 1px, hidden;
+	padding-bottom: 80px;
+	background-color: rgba(221, 212, 221, 0.8);
+	margin-bottom: 50px;
+}
+
+.sec#music, .sec#writing {
+    border-radius: 140px 0px;
+}
+
+.sec#comics {
+    border-radius: 0px 140px;
+}
+
+img.secRight {
+	float: left;
+    width: 220px;
+    border-top-left-radius: 50%;
+}
+
+img.secLeft {
+	float: right;
+    width: 220px;
+    border-top-right-radius: 50%;
+}
+
+.textRight {
+	margin-left: 240px;
+	padding-top: 20px;
+}
+
+.textLeft {
+	margin-right: 240px;
+	padding-top: 20px;
+}
+
+.textLeft p {
+	text-align: right;
 }
 
 .homepage, .text {
@@ -149,6 +197,22 @@ p.byline {
     background-color: #ff3300;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+.textRight h2 {
+	text-align: center;
+    margin-bottom: 10px;
+    padding-right: 220px;
+    margin-left: -130px;
+    padding-left: 110px;
+}
+
+.textLeft h2 {
+	text-align: center;
+    margin-bottom: 10px;
+    padding-left: 220px;
+    margin-right: -130px;
+    padding-right: 110px;
 }
 
 .homepage p {
