@@ -265,4 +265,50 @@ img.secLeft {
 /*     	.jumbotron {
     		background-size: 100%;
     	} */
+
+    	.sec#music, .sec#comics, .sec#writing {
+    		width: 220px;
+    		margin-left: auto;
+    		margin-right: auto;
+    		padding-bottom: 6%;
+    	}
+
+    	img.secRight {
+    		float:none;
+    	}
+
+    	img.secLeft {
+    		float:none;
+    	}
+
+    	.textRight {
+    		margin-left: 0;
+    	}
+
+    	.textRight h2 {
+    		padding-left: 0px;
+		    padding-right: 0px;
+		    margin-left: 0px;
+    	}
+
+    	.textRight p {
+    		padding-left: 10px;
+    		padding-right: 10px;
+    	}
+
+    	.textLeft h2 {
+    		padding-left: 0px;
+		    padding-right: 0px;
+		    margin-right: -220px;
+    	}
+
+    	.textLeft p {
+    		margin-right: -220px;
+		    padding-left: 10px;
+		    padding-right: 10px;
+    	}
+
+    	/*p.button {
+    		padding-left: 5%;
+    	}*/
 }
