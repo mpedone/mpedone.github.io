@@ -278,7 +278,7 @@ img.secLeft {
 
     	img.secRight, img.secLeft {
     		float:none;
-    		border-radius: 0;
+    		border-radius: 4px 4px 0px 0px;;
     		max-width: 100%;
     	}
 
