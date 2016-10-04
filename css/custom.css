@@ -177,18 +177,13 @@ img.secLeft {
 	text-align: right;
 }
 
-.subpagePost {
-	margin-bottom: 50px;
-	margin-top: 40px;
-}
-
-.subpagePost h3 {
-	margin-bottom: 50px;
-}
-
 .homepage, .text {
 	padding-top: 30px;
 	padding-bottom: 30px;
+}
+
+.text h3 {
+	margin-bottom: 50px;
 }
 
 .homepage h1 {
