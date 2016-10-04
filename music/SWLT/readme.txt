@@ -1,0 +1,1 @@
+Stuff We Listened To is a section devoted to finding albums that I used to listen to a lot, but haven't listened to in a long time and discussing them either in context of the era, my reason for listenting and stopping, or just the overal quality of the album.
