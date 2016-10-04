@@ -95,6 +95,7 @@ p.byline {
 	/*background-image: url('../images/originals/boston-592192.jpg');
 	background-size: contain;*/
 	background-attachment: fixed;
+	max-height: 220px;
 }
 
 .footer p {
