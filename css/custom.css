@@ -140,16 +140,16 @@ p.byline {
 	padding-bottom: 80px;
 	background-color: rgba(221, 221, 221, 0.7);
 	margin-bottom: 50px;
+	max-height: 220px;
+
 }
 
 .sec#music, .sec#writing {
     border-radius: 140px 0px;
-	max-height: 220px;
 }
 
 .sec#comics {
     border-radius: 0px 140px;
-	max-height: 220px;
 }
 
 img.secRight {
@@ -268,6 +268,7 @@ img.secLeft {
     	} */
 		.sec {
 			border: 1px solid transparent;
+			max-height: 100%
 		}
 
     	.sec#music, .sec#comics, .sec#writing {
@@ -276,6 +277,7 @@ img.secLeft {
     		margin-right: auto;
     		padding-bottom: 6%;
     		border-radius: 4px;
+		max-height: 100%;
     	}
 
     	img.secRight, img.secLeft {
