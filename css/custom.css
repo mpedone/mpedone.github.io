@@ -95,7 +95,6 @@ p.byline {
 	/*background-image: url('../images/originals/boston-592192.jpg');
 	background-size: contain;*/
 	background-attachment: fixed;
-	max-height: 220px;
 }
 
 .footer p {
@@ -145,10 +144,12 @@ p.byline {
 
 .sec#music, .sec#writing {
     border-radius: 140px 0px;
+	max-height: 220px;
 }
 
 .sec#comics {
     border-radius: 0px 140px;
+	max-height: 220px;
 }
 
 img.secRight {
