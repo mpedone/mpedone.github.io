@@ -178,6 +178,10 @@ img.secLeft {
 	text-align: right;
 }
 
+.subpage h3 {
+	margin-bottom: 50px;
+}
+
 .homepage, .text {
 	padding-top: 30px;
 	padding-bottom: 30px;
