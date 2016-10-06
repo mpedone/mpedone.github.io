@@ -47,6 +47,7 @@ h2 {
 
 a {
 	color: #ff3300;
+	font-weight: bold;
 }
 
 a:hover {
@@ -242,6 +243,12 @@ img.secLeft {
     padding-right: 110px;
 }
 
+.posts {
+	background-color: #080808;
+	padding-top: 50px;
+	box-shadow: none;
+}
+
 .homepage p {
 	font-size: 20px;
 }
@@ -271,12 +278,22 @@ img.secLeft {
 	margin-top: 30px;
 }
 
+.caption a {
+	font-weight: normal;
+}
+
 .btn-primary {
 	background-color: #ff3300;
 	border-color: #ff3300;
 }
 
-.btn-primary:hover, .btn-primary:active {
+.btn-primary:hover {
+	background-color: #ff3300;
+	border-color: #ff3300;
+	opacity: 0.7;
+}
+
+.btn-primary:active, .btn-primary:active:focus {
 	background-color: #ff3300;
 	border-color: #ff3300;
 	opacity: 0.8;
