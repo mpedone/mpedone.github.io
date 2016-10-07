@@ -321,6 +321,10 @@ img.secLeft {
 	opacity: 0.8;
 }
 
+.btn-primary a:visited {
+	color: white;
+}
+
 .item.active {
 	height: 400px;
 }
