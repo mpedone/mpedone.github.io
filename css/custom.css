@@ -190,7 +190,7 @@ img.secLeft {
 .text {
     padding: 40px 100px;
     background-color: #ffffff;
-    box-shadow: 2px -2px 10px #bbbbbb;
+    box-shadow: 2px 0px 10px #bbbbbb;
     margin-top: -10px;
 }
 
@@ -207,6 +207,12 @@ img.secLeft {
 .text p {
     margin-bottom: 1em;
 	text-align: justify;
+}
+
+.text ol, ul {
+	margin-top: -10px;
+    margin-bottom: 20px;
+    text-align: left;
 }
 
 .text blockquote {
@@ -403,7 +409,7 @@ div.capR {
         }
 	
 	.text {
-		padding: 40px;
+		padding: 40px 1.5em;
 	}
 	
 	div.capR {
@@ -412,8 +418,17 @@ div.capR {
 		margin: 1em auto;
 		max-width: 75%
 	}
+	
+	.text blockquote {
+    	margin-right: 0;
+	}
+	
+	h1 {
+		font-size: 32px;
+	}
+	
+	h2 {
+		font-size: 26px;
+	}
 
-    	/*p.button {
-    		padding-left: 5%;
-    	}*/
 }
