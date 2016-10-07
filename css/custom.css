@@ -497,5 +497,49 @@ div.capR {
 	.text blockquote {
 		font-size: 12px;
 	} */
+	
+	    		margin-right: auto;
+    		padding-bottom: 6%;
+    		border-radius: 4px;
+			max-height: 100%;
+    	}
+
+    	img.secRight, img.secLeft {
+    		float:none;
+    		border-radius: 4px 4px 0px 0px;;
+    		max-width: 100%;
+    	}
+
+    	.textRight {
+    		margin-left: 0;
+    	}
+
+    	.textLeft {
+    		margin-right: 0;
+    	}
+
+    	.textRight h2 {
+    		padding-left: 0px;
+		    padding-right: 0px;
+		    margin-left: 0px;
+    	}
+
+    	.textRight p {
+    		padding-left: 10px;
+    		padding-right: 10px;
+    		text-align: justify;
+    	}
+
+    	.textLeft h2 {
+    		padding-left: 0px;
+		    padding-right: 0px;
+		    margin-right: 0px;
+    	}
+
+    	.textLeft p {
+    		text-align: justify;
+    		padding-left: 10px;
+		    padding-right: 10px;
+    	}
 
 }
