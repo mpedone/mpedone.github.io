@@ -496,6 +496,7 @@ div.capR {
 		}
 	
 		.text blockquote {
+			margin-right: 0;
 			font-size: 12px;
 		}
 	
@@ -543,5 +544,12 @@ div.capR {
     		padding-left: 10px;
 		    padding-right: 10px;
     	}
+	
+		div.capR {
+			float: none;
+			display: block;
+			margin: 1em auto;
+			max-width: 75%
+		}
 
 }
