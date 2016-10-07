@@ -349,6 +349,25 @@ div.capR {
     text-align: center;
 }
 
+.overlay {
+    position: relative;
+}
+
+.bottomright {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    opacity: 0.3;
+}
+
+
+<!-- MEDIA QUERIES -->
 @media (max-width: 600px) {
 /*     	.jumbotron {
     		background-size: 100%;
