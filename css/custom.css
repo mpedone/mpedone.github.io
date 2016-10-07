@@ -196,6 +196,7 @@ img.secLeft {
 
 .text h3 {
     margin-bottom: 50px;
+	line-height: 1.414213562373095em;
 }
 
 .text h4 {
@@ -429,6 +430,15 @@ div.capR {
 	
 	h2 {
 		font-size: 26px;
+	}
+	
+	h3 {
+		margin-bottom: 20px;
+		font-size: 20px;
+	}
+	
+	hr {
+		margin-bottom: 20px;
 	}
 
 }
