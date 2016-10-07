@@ -351,19 +351,30 @@ div.capR {
 
 .overlay {
     position: relative;
+	margin-bottom: 50px;
+	border: 1px solid #bbbbbb;
 }
 
 .bottomright {
     position: absolute;
     bottom: 8px;
     right: 16px;
-    font-size: 18px;
+	font-family: 'Oswald';
+    font-size: 28px;
+	font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.1em;
+    border: 2px solid #ff3300;
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.1);
 }
 
-img {
+.overlay img {
     width: 100%;
     height: auto;
-    opacity: 0.3;
+    opacity: 0.5;
+	-webkit-filter: grayscale(90%);
+	filter: grayscale(90%);
 }
 
 
