@@ -389,10 +389,15 @@ div.capR {
 	font-size: 20px;
 	text-align: left;
 }
+
+h3.popover-title {
+	margin-bottom: 0;
+}
+
 /* Popover Body */
 .popover-content {
-	background-color: rgba(255, 51, 00, 0.5);
-	color: #000;
+	background-color: rgba(221, 221, 221, 0.7);
+	color: #000000;
 	padding: 10px;
 }
 /* Popover Arrow */
