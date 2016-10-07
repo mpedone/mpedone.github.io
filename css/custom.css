@@ -362,6 +362,7 @@ div.capR {
 	font-family: 'Oswald';
     font-size: 28px;
 	font-weight: bold;
+	text-align: right;
     text-transform: uppercase;
     line-height: 1.1em;
     border: 2px solid #ff3300;
