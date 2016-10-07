@@ -122,6 +122,7 @@ p.byline {
 .jumbotron#PJintro {
 	background-image: url('../images/PJatFenwayGreenMonster2a.jpg');
 	background-position: center;
+	background-position-y: -100px;
 	background-attachment: fixed;
 }
 
