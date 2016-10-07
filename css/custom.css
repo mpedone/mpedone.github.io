@@ -321,8 +321,8 @@ img.secLeft {
 	opacity: 0.8;
 }
 
-a.btn.btn-primary:visited {
-	color: white;
+a.btn:visited, a.btn-primary:visited {
+    color: white;
 }
 
 .item.active {
