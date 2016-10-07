@@ -378,6 +378,28 @@ div.capR {
 	filter: grayscale(90%);
 }
 
+/* Popover */
+.popover {
+	border: none;
+}
+/* Popover Header */
+.popover-title {
+	background-color: #ff3300;
+	color: #FFFFFF;
+	font-size: 20px;
+	text-align: left;
+}
+/* Popover Body */
+.popover-content {
+	background-color: rgba(255, 51, 00, 0.5);
+	color: #000;
+	padding: 10px;
+}
+/* Popover Arrow */
+.arrow {
+	border-right-color: #ffffff !important;
+ }
+
 
 <!-- MEDIA QUERIES -->
 <!-- @media (max-width: 600px) {
