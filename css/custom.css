@@ -321,7 +321,7 @@ img.secLeft {
 	opacity: 0.8;
 }
 
-.btn-primary a:visited {
+a.btn.btn-primary:visited {
 	color: white;
 }
 
