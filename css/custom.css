@@ -50,7 +50,7 @@ a, a:visited {
 	font-weight: bold;
 }
 
-a:hover {
+a:hover, a:active, a:active:focus {
 	color: #ff3300;
 	text-decoration: none;
 	opacity: 0.8;
