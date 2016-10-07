@@ -399,10 +399,19 @@ div.capR {
     	}
 
 	    .imgR {
-            float: right;
-            margin: 1em 0em 1em 2em;
             max-width: 100%;
         }
+	
+	.text {
+		padding: 40px;
+	}
+	
+	div.capR {
+		float: none;
+		display: block;
+		margin: 1em auto;
+		max-width: 75%
+	}
 
     	/*p.button {
     		padding-left: 5%;
