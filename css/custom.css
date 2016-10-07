@@ -477,28 +477,30 @@ div.capR {
 }
 
 @media (max-width: 400px) {
-	h1 {
-		font-size: 28px;	
-	}
+		h1 {
+			font-size: 28px;	
+		}
 	
-	h2 {
-		font-size: 22px;
-	}
+		h2 {
+			font-size: 22px;
+		}
 	
-	h3 {
-		font-size: 15px;
-		margin-bottom:20px;
-	}
+		h3 {
+			font-size: 15px;
+			margin-bottom:20px;
+		}
 	
-/* 	p {
-		font-size: 14px;
-	}
+		.text {
+			padding: 40px 1.5em;
+			font-size: 14px;
+		}
 	
-	.text blockquote {
-		font-size: 12px;
-	} */
+		.text blockquote {
+			font-size: 12px;
+		}
 	
-	    		margin-right: auto;
+		.sec#music, .sec#comics, .sec#writing {
+	    	margin-right: auto;
     		padding-bottom: 6%;
     		border-radius: 4px;
 			max-height: 100%;
