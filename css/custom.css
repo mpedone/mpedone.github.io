@@ -339,7 +339,7 @@ img.secLeft {
 div.capR {
     float: right;
     max-width: 30%;
-    margin: 0em 0em 1em 2em;
+    margin: 0em 0em 0em 2em;
 }
 
 .cap p, .capR p {
