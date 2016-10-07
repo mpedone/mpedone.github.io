@@ -380,10 +380,7 @@ div.capR {
 
 
 <!-- MEDIA QUERIES -->
-@media (max-width: 600px) {
-/*     	.jumbotron {
-    		background-size: 100%;
-    	} */
+<!-- @media (max-width: 600px) {
 		.sec {
 			border: 1px solid transparent;
 			max-height: 100%
@@ -440,43 +437,42 @@ div.capR {
             max-width: 100%;
         }
 	
-	.text {
-		padding: 40px 1.5em;
-		font-size: 14px
-	}
+		.text {
+			padding: 40px 1.5em;
+			font-size: 14px
+		}
 	
-	div.capR {
-		float: none;
-		display: block;
-		margin: 1em auto;
-		max-width: 75%
-	}
+		div.capR {
+			float: none;
+			display: block;
+			margin: 1em auto;
+			max-width: 75%
+		}
 	
-	.text blockquote {
-    	margin-right: 0;
-		font-size: 12px;
-	}
+		.text blockquote {
+ 	  	 	margin-right: 0;
+			font-size: 12px;
+		}
 	
-	h1 {
-		font-size: 32px;
-	}
+		h1 {
+			font-size: 32px;
+		}
 	
-	h2 {
-		font-size: 26px;
-	}
+		h2 {
+			font-size: 26px;
+		}
 	
-	h3 {
+		h3 {
+			margin-bottom: 20px;
+			font-size: 20px;
+		}
+	
+		hr {
 		margin-bottom: 20px;
-		font-size: 20px;
-	}
-	
-	hr {
-		margin-bottom: 20px;
-	}
+		}
+}-->
 
-}
-
-@media (max-width: 400px) {
+@media (max-width: 600px) {
 		h1 {
 			font-size: 28px;	
 		}
