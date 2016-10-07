@@ -411,6 +411,7 @@ div.capR {
 	
 	.text {
 		padding: 40px 1.5em;
+		font-size: 14px
 	}
 	
 	div.capR {
@@ -422,6 +423,7 @@ div.capR {
 	
 	.text blockquote {
     	margin-right: 0;
+		font-size: 12px;
 	}
 	
 	h1 {
@@ -454,10 +456,15 @@ div.capR {
 	
 	h3 {
 		font-size: 15px;
+		margin-bottom:20px;
 	}
 	
-	p {
+/* 	p {
 		font-size: 14px;
 	}
+	
+	.text blockquote {
+		font-size: 12px;
+	} */
 
 }
