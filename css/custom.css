@@ -45,7 +45,7 @@ h2 {
 	color: #ff3300;
 }
 
-a {
+a, a:visited {
 	color: #ff3300;
 	font-weight: bold;
 }
