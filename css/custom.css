@@ -511,7 +511,7 @@ h3.popover-title {
 		}
 }-->
 
-@media (max-width: 768px) {
+@media (max-width: 800px) {
 	.text blockquote {
 		margin-right: 0;
 	}
