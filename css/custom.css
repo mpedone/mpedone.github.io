@@ -347,11 +347,18 @@ div.capR {
     margin: 0em 0em 0em 2em;
 }
 
+.capR img {
+	max-width: 100%;
+}
+
 .cap p, .capR p {
     text-align: center;
     margin: -10px 0em 2em 2em;
-    font-size: 12px;
-    text-align: center;
+    font-size: 11px;
+}
+
+.capR p {
+    margin: 5px 0em 1em 0em;
 }
 
 .overlay {
