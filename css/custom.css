@@ -504,7 +504,7 @@ h3.popover-title {
 		}
 }-->
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
 		h1 {
 			font-size: 28px;	
 		}
