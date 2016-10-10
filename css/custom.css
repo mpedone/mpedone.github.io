@@ -126,6 +126,11 @@ p.byline {
 	background-attachment: fixed;
 }
 
+.jumbotron#SWLT {
+	background-image: url('../images/swlt02.jpg');
+	background-attachment: fixed;
+}
+
 .mainBanner h1 {
 	padding: 0px;
     margin: -50px 0px 50px 0px;
