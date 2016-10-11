@@ -136,6 +136,13 @@ p.byline {
 	background-attachment: fixed;
 }
 
+.jumbotron#comics {
+    background-image: url('../images/Comics01.jpg');
+    background-attachment: fixed;
+    max-width: 100%;
+/*     background-position-y: 25px; */
+}
+
 .mainBanner h1 {
 	padding: 0px;
     margin: -50px 0px 50px 0px;
