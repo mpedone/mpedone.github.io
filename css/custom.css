@@ -45,6 +45,10 @@ h2 {
 	color: #ff3300;
 }
 
+h5 {
+	text-align: center;
+}
+
 a, a:visited {
 	color: #ff3300;
 	font-weight: bold;
