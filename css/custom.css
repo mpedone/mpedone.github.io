@@ -143,6 +143,11 @@ p.byline {
 /*     background-position-y: 25px; */
 }
 
+.jumbotron#writing {
+    background-image: url('../images/writing01.jpg');
+    background-attachment: fixed;
+}
+
 .mainBanner h1 {
 	padding: 0px;
     margin: -50px 0px 50px 0px;
