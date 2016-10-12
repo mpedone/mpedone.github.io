@@ -132,12 +132,12 @@ p.byline {
 }
 
 .jumbotron#music {
-	background-image: url('../images/music01.jpg');
+	background-image: url('../images/music02.jpg');
 	background-attachment: fixed;
 }
 
 .jumbotron#comics {
-    background-image: url('../images/Comics01.jpg');
+    background-image: url('../images/comics01.jpg');
     background-attachment: fixed;
     max-width: 100%;
 /*     background-position-y: 25px; */
