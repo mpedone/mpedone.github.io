@@ -400,6 +400,7 @@ div.capR {
 .capR p {
     margin: 5px 0em 1em 0em;
 	max-width: 70%;
+	text-align: justify;
 }
 
 .overlay {
