@@ -399,6 +399,7 @@ div.capR {
 
 .capR p {
     margin: 5px 0em 1em 0em;
+	text-align: justify;
 }
 
 .overlay {
