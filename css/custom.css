@@ -399,6 +399,7 @@ div.capR {
 
 .capR p {
     margin: 5px 0em 1em 0em;
+	max-width: 70%;
 }
 
 .overlay {
@@ -632,5 +633,8 @@ h3.popover-title {
 			margin: 1em auto;
 			max-width: 75%
 		}
+	.capR p {
+		max-width: 95%;
+	}
 
 }
