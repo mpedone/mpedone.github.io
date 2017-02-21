@@ -54,7 +54,8 @@ h5.byline {
 
 h5.genre {
 	text-align: center;
-	font-size: 14px;
+	font-size: 12px;
+	text-transform: capitalize;
 	color: grey
 }
 
