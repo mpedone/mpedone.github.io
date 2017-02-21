@@ -45,16 +45,17 @@ h2 {
 	color: #ff3300;
 }
 
-h5.genre {
-	text-align: center;
-	color: grey
-}
-
 h5.byline {
 	text-align: center;
     margin-top: 0;
     font-size: 16px;
     text-transform: capitalize;
+}
+
+h5.genre {
+	text-align: center;
+	font-size: 14px;
+	color: grey
 }
 
 a, a:visited {
