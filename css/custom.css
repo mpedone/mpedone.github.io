@@ -157,6 +157,13 @@ p.tag {
 /*     background-position-y: 25px; */
 }
 
+.jumbotron#SGcomics {
+    background-image: url('../images/comics/SGbanner2.jpg');
+    background-attachment: fixed;
+    max-width: 100%;
+/*     background-position-y: 25px; */
+}
+
 .jumbotron#writing {
     background-image: url('../images/writing01.jpg');
     background-attachment: fixed;
