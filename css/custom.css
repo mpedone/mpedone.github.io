@@ -243,6 +243,23 @@ img.secLeft {
 	line-height: 1.414213562373095em;
 }
 
+.text h3.byline {
+	text-align: center;
+    margin-top: 0px;
+	margin-bottom: 10px;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+.text h3.genre {
+	text-align: center;
+	font-size: 12px;
+	text-transform: capitalize;
+	color: grey;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
 .text h4 {
     font-size: 18px;
     color: #ff3300;
@@ -288,21 +305,6 @@ img.secLeft {
     box-shadow: none;
 }
 
-.text h3.byline {
-	text-align: center;
-    margin-top: 0px;
-	margin-bottom: 10px;
-    font-size: 16px;
-    text-transform: capitalize;
-}
-
-h3.genre {
-	text-align: center;
-	font-size: 12px;
-	text-transform: capitalize;
-	color: grey;
-	margin-top: 0px;
-}
 
 .homepage h1 {
 	color: #ff3300;
