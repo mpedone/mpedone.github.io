@@ -169,6 +169,16 @@ p.tag {
     background-attachment: fixed;
 }
 
+.jumbotron#travel {
+    background-image: url('../images/HoneymoonBanner.jpg');
+    background-attachment: fixed;
+}
+
+.jumbotron#hmoon {
+    background-image: url('../images/HoneymoonBanner3.jpg');
+    background-attachment: fixed;
+}
+
 .mainBanner h1 {
 	padding: 0px;
     margin: -50px 0px 50px 0px;
