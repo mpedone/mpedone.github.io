@@ -25,6 +25,10 @@ hr {
 	margin-bottom: 50px;
 }
 
+hr.btm-nav {
+	margin-bottom: 1.5em;
+}
+
 h1, h2, h3, h4, h5 {
 	font-family: 'Oswald', sans-serif;
 	text-transform: uppercase;
