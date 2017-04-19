@@ -74,6 +74,10 @@ a:hover, a:active, a:active:focus {
 	opacity: 0.8;
 }
 
+button a:hover {
+    color: white;
+}
+
 footer {
     background-color: #ff3300;
     padding-top: 150px;
