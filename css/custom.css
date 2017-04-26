@@ -471,10 +471,10 @@ div.capR {
     position: absolute;
     bottom: 8px;
     right: 16px;
-	font-family: 'Oswald';
+		font-family: 'Oswald';
     font-size: 28px;
-	font-weight: bold;
-	text-align: right;
+		font-weight: bold;
+		text-align: right;
     text-transform: uppercase;
     line-height: 1.1em;
     border: 2px solid #ff3300;
@@ -486,8 +486,8 @@ div.capR {
     width: 100%;
     height: auto;
     opacity: 0.5;
-	-webkit-filter: grayscale(90%);
-	filter: grayscale(90%);
+		-webkit-filter: grayscale(90%);
+		filter: grayscale(90%);
 }
 
 /* Popover */
@@ -504,6 +504,7 @@ div.capR {
 
 h3.popover-title {
 	margin-bottom: 0;
+	margin-top: 0px;
 }
 
 /* Popover Body */
