@@ -523,6 +523,31 @@ h3.popover-title {
 	border-right-color: #ffffff !important;
 }
 
+.filter-button
+{
+    font-size: 18px;
+    border: 1px solid #ff3300;
+    border-radius: 5px;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 30px;
+
+}
+.filter-button:hover
+{
+    font-size: 18px;
+    border: 1px solid #00659e;
+    border-radius: 5px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #00659e;
+
+}
+.filter-button:active
+{
+    background-color: #00659e;
+    color: white;
+}
 
 <!-- MEDIA QUERIES -->
 
