@@ -120,6 +120,15 @@ p.tag {
 	background-attachment: fixed;
 }
 
+.gallery .caption{
+    height: 320px;
+}
+
+.gallery .button{
+    position: absolute;
+    bottom: 20px;
+}
+
 .footer p {
     font-family: 'Open Sans', sans-serif;
     font-size: 9px;
