@@ -567,6 +567,15 @@ h3.popover-title {
 }
 
 <!-- @media (max-width: 600px) {
+	
+		.gallery .caption{
+            height: inherit;
+    }
+
+    .gallery .button{
+            position: inherit;
+    }
+	
 		.sec {
 			border: 1px solid transparent;
 			max-height: 100%
