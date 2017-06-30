@@ -558,6 +558,10 @@ h3.popover-title {
     color: white;
 }
 
+.refs li {
+	  margin-bottom: 1em;
+}
+
 <!-- MEDIA QUERIES -->
 
 @media (max-width: 700px) {
