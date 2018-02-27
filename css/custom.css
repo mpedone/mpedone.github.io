@@ -120,6 +120,15 @@ p.tag {
 	background-attachment: fixed;
 }
 
+.galnav {
+    padding-bottom: 30px;
+    margin-top: -30px;
+}
+
+.filter-button {
+     background-color: #FF3300;
+}
+
 .gallery .caption{
     height: 320px;
 }
