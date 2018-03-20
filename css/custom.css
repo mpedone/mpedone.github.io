@@ -395,10 +395,10 @@ img.secLeft {
 .caption h2 {
 	font-size: 26px;
 	text-align: center;
-	padding-top: 24px;
+/* 	padding-top: 24px; */
 	color: #ff3300;
 	background-color: inherit;
-	margin-top: 20px;
+	margin-top: 10px;
 	margin-bottom: 10px;
 	padding-bottom: 0px;
 }
