@@ -6,6 +6,7 @@ body {
   font-size: 18px;
   text-align: justify;
   color: #000000;
+  background-color: #FF3300;
 }
 
 ul.nav{
@@ -78,9 +79,9 @@ button a, button a:hover, button a:visited {
     color: white;
 }
 
-footer {
+.container.footer {
     background-color: #ff3300;
-    padding-top: 150px;
+    padding-top: 75px;
     padding-bottom: 30px;
 }
 
@@ -109,6 +110,7 @@ p.tag {
 #who {
 	padding-top: 50px;
 	margin-bottom: 0;
+	background-color: #FFFFFF;
 }
 
 #sections {
